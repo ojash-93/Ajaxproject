@@ -1,0 +1,265 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    background-color: #000;
+    background-color: var(--bs-black);
+}
+
+
+.laft {
+
+    display: inline-block;
+    position: absolute;
+    left: 54px;
+    top: 28px;
+
+}
+
+.laft img {
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.mid {
+    font-family: "Nunito", serif;
+
+    display: block;
+    width: 33%;
+    margin: 18px auto;
+}
+
+.right {
+
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 28px;
+}
+
+.right button {
+    color: #000;
+    background-color: rgb(255, 250, 251);
+    margin: 0px 12px;
+    padding: 4px 14px;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: "Nunito", serif;
+
+}
+
+.btnn:hover {
+    background-color: #e80a0ade;
+    text-decoration: underline;
+
+    color: #fefcfc;
+}
+
+.session1 {
+
+    margin-top: 20px;
+    text-align: center;
+}
+
+.nave {
+    display: inline-block;
+
+}
+
+.nave li {
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Nunito", serif;
+}
+
+.nave li a {
+    text-decoration: none;
+    color: rgb(236, 233, 233);
+    padding-right: 20px;
+    font-family: "Nunito", serif;
+}
+
+.nave li a:hover {
+    text-decoration: underline;
+    color: rgb(255, 0, 38);
+}
+
+.cantenor {
+
+    margin: 106px 80px;
+    padding: 75px;
+    width: 33%;
+    border-radius: 30px;
+}
+
+.form-group input {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    padding: 1px;
+    margin: 11px auto;
+    width: 340px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: "Nunito", serif;
+
+}
+
+.cantenor h1 {
+    text-align: center;
+}
+
+.cantenor button {
+    display: block;
+    margin: 20px auto;
+    width: 340px;
+    border-radius: 20px;
+    background-color: #00000010;
+    color: white;
+}
+
+.box1 {
+
+    background-image: url(../img/box1.jpg);
+    width: 100%;
+    height: 89%;
+    background-repeat: no-repeat;
+
+}
+
+.box1 h1,
+p {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 52px;
+}
+
+.box1 button {
+
+    background-color: transparent;
+    color: aliceblue;
+
+
+}
+
+.box2 {
+    margin-top: 53px;
+
+
+}
+
+.box3 img {
+    border: solid black;
+    width: 200px;
+    height: 200px;
+
+
+
+
+}
+
+
+.box4 img {
+    border: solid black;
+    width: 200px;
+    height: 200px;
+
+}
+
+.box6 img {
+    border: solid black;
+    margin-top: 35px;
+    width: 200px;
+    height: 200px;
+}
+
+.box5 img {
+    border: solid black;
+    margin-top: 35px;
+    width: 200px;
+    height: 200px;
+}
+
+/* session 2 */
+.session2 {
+    margin-top: 100px;
+   
+}
+.box2txt{
+    text-align: center;
+    color: white;
+}
+
+.sessiom2txt {
+    color: #fefcfc;
+
+}
+
+.session2txt2 {
+    color: #fefcfc;
+    margin-bottom: 20px;
+
+}
+
+.ses2img1 {
+ 
+    padding-left: 0px;
+    width: 100%
+}
+.ses2img2 {
+  
+
+    padding-right: 0px;
+    width: 100%
+    
+}
+.ses2img3 {
+    text-align: center;
+
+    width: 100%
+}
+.session2txt3{
+    align-items: normal;
+    color: #f6f6f6;
+}
+.session2txt4{
+    align-items: normal;
+    color: #f6f6f6;
+}
+.session2txt5{
+    align-items: normal;
+    color: #f6f6f6;
+}
+.session5{
+    margin-top: 100px;
+    
+
+}
+.box5 h1,p,h8{
+    color: aliceblue;
+    
+    margin-top: 52px;
+}
+
+.box5 button{
+border-radius: 20px;
+margin-left: 250px;
+}
+
+/* session 3 */
+
+.session3{
+    margin-top: 100px;
+   
+}
+/* session 4 */
+
+.session{
+    margin-top: 100px;
+   
+}
+.shopimg{
+    margin-right: 10px;
+}
